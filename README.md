@@ -32,7 +32,7 @@
     - [mex605](https://github.com/hbeooooooom/router_vuln_analyze/tree/main/Teardown%20process#12-mex605)
 2. [부팅 프로세스](https://github.com/hbeooooooom/router_vuln_analyze/tree/main/Booting%20process#3-%EB%B6%80%ED%8C%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%B6%84%EC%84%9D)
     - [tew-831dr](https://github.com/hbeooooooom/router_vuln_analyze/blob/main/Booting%20process/README.md#21-tew-831dr-%EB%B6%80%ED%8C%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%B6%84%EC%84%9D)
-    - [mex605](https://github.com/hbeooooooom/router_vuln_analyze/tree/main/Booting%20process#32-mex605-router-%EB%B6%80%ED%8C%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%B6%84%EC%84%9D)
+    - [mex605](https://github.com/hbeooooooom/router_vuln_analyze/tree/main/Booting%20process#22-mex605-%EB%B6%80%ED%8C%85-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%B6%84%EC%84%9D)
 3. [통신 방법](https://github.com/hbeooooooom/router_vuln_analyze/blob/main/Communication%20method/README.md#4-%ED%86%B5%EC%8B%A0-%EB%B0%A9%EB%B2%95)
     - [tew-831dr](https://github.com/hbeooooooom/router_vuln_analyze/blob/main/Communication%20method/README.md#41-tew-831dr)
 4. [분석 환경](https://github.com/hbeooooooom/router_vuln_analyze/blob/main/Analysis%20environment/README.md#4-%EB%B6%84%EC%84%9D-%ED%99%98%EA%B2%BD)
